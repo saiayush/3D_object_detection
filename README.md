@@ -117,8 +117,25 @@ KITTI/
 
 ---
 
-## outputs
+## Outputs
+### BEV Predictions
 
+#### Example 1
+![BEV Prediction 1](output_images/pred1.png)
+
+#### Example 2
+![BEV Prediction 2](output_images/pred2.png)
+
+#### Example 2
+![BEV Prediction 3](output_images/pred3.png)
+
+### Performance metrics
+
+#### Metrics
+![metrics](output_images/metrics.png)
+
+#### Threshold Plot
+![Threshold_plot](output_images/plot.png)
 
 ---
 
